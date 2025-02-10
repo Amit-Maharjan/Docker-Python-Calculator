@@ -12,7 +12,7 @@ A simple Python console application that performs basic arithmetic calculations 
 
 ### **1. Clone the Repository**
 ```
-git clone <repository-url>
+git clone https://github.com/Amit-Maharjan/Docker-Python-Calculator.git
 ```
 
 ### **2. Setup Instructions**
