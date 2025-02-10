@@ -23,3 +23,6 @@ git clone https://github.com/Amit-Maharjan/Docker-Python-Calculator.git
 2. Run the container with a mounted volume for persistence:
    ```
    docker run -it --rm -v $(pwd)/history.txt:/application/history.txt simple-calculator
+
+### Screenshots of Application Running
+![Screenshots of Application Running](screenshot.jpg)
