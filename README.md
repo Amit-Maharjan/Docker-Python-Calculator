@@ -11,7 +11,9 @@ A simple Python console application that performs basic arithmetic calculations 
 ## **Setup and Usage**
 
 ### **1. Clone the Repository**
+```
 git clone <repository-url>
+```
 
 ### **2. Setup Instructions**
 1. Build the Docker image:
